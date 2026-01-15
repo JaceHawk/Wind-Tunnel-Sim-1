@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This project is a laptop-runnable 2D wind tunnel designed to bridge the gap between textbook aerodynamics and real-time visualization. Unlike standard game physics, this engine runs a high-fidelity **Lattice Boltzmann Method (LBM)** solver on the GPU, allowing it to simulate **200,000 interactive particles** at 60 FPS.
+This project is a laptop-runnable 2D wind tunnel designed to bridge the gap between textbook aerodynamics and real-time visualization. Unlike standard game physics, this engine runs a **Lattice Boltzmann Method (LBM)** solver on the GPU, allowing it to simulate **200,000 interactive particles** at 60 FPS.
 
 It allows users to generate **NACA 4-digit airfoils** on the fly, visualize pressure/velocity fields, and perform automated angle-of-attack sweeps to generate professional Lift/Drag polar graphs.
 
