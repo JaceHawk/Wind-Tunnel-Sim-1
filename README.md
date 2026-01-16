@@ -6,6 +6,7 @@
 
 > **A real-time, GPU-accelerated fluid simulation that solves the Navier-Stokes equations to visualize aerodynamics and generate lift/drag polars for any NACA airfoil.**
 
+![Wind Tunnel Demo](./2D-Wind-Tunnel-Sim-1-Photo-1.png)
 ---
 
 ## Project Overview
